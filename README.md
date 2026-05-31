@@ -309,5 +309,5 @@ Proyek ini dibuat untuk keperluan pendidikan dan Tugas Web II Universitas Siber 
 ## 👨‍💼 Author
 
 **Tugas Pemrograman Web II**  
-SMK 1 Siber - 2024
+SMK 1 Siber - 
 ANGGA ANGGIEANIE |
