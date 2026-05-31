@@ -1,4 +1,4 @@
-# 📚 Aplikasi CRUD Siswa - MySQLi Object-Oriented
+# 📚 Aplikasi CRUD Siswa SMK 1 Siber - MySQLi Object-Oriented
 
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=flat&logo=php)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)
@@ -304,7 +304,7 @@ Setelah menggunakan aplikasi ini, Anda akan memahami:
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan pendidikan. Gunakan dan modifikasi sesuai kebutuhan Anda.
+Proyek ini dibuat untuk keperluan pendidikan dan Tugas Web II Universitas Siber Asia
 
 ## 👨‍💼 Author
 
